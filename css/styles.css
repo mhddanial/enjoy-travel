@@ -162,7 +162,7 @@ button {
     content: "";
     position: absolute;
     inset: 0;
-    background: url("../images/hero-bg.png") center/cover no-repeat;
+    background: url("../Images/hero-bg.png") center/cover no-repeat;
     z-index: -2;
 }
 
@@ -1074,7 +1074,7 @@ button {
     overflow: hidden;
     background:
         linear-gradient(135deg, rgba(11, 85, 99, 0.5), rgba(10, 127, 140, 0.5)),
-        url("../images/highlight-bg.png");
+        url("../Images/highlight-bg.png");
     background-size: cover;
     background-position: center;
 }
