@@ -162,7 +162,7 @@ button {
     content: "";
     position: absolute;
     inset: 0;
-    background: url("./images/hero-bg.png") center/cover no-repeat;
+    background: url("../images/hero-bg.png") center/cover no-repeat;
     z-index: -2;
 }
 
